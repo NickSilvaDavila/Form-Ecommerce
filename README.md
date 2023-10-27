@@ -12,11 +12,13 @@
 
 [Autores](#autores)  
 
+ ꕥ 🆂🅴🅹🅰 🅱🅴🅼 🆅🅸🅽🅳🅾 ꕥ
+
 # 📧 Projeto - Form-Ecommerce 📧
 
 ## Descrição: ꯭ᬁ🌷💫࿔
 
-
+ Esse e um exemplo de uma Tela de login de um site Ecommerce.
 
 <h4 align="center">
     :construction: 🚧 Projeto em construção 🚧 :construction:
@@ -26,9 +28,17 @@
 
 ## Introdução: 𓆩♡𓆪
 
+A tela do login tem como a sua principal atribuiçao, anunciar para que se cadastre ou entre para que adicione seus dados para conectar sua conta com o site.
+
 ## Funcionalidades: 📚⃤
 
+Cadastrar seus dados para adqurir-se sua conta no site.
+
 ## Tecnológias utilizadas:🌺⃤
+
+ -Html
+ -Visual Studio code
+ -GitHub
 
 ## Fontes consultadas: 𖥨ํ∘̥⃟
 
